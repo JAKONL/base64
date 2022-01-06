@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "A base64 encoder and decoder API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Josh Klosterman <j@jak.onl>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
